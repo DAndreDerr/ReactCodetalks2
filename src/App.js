@@ -64,7 +64,15 @@ export default function CodeTalk(){
 
 // Why are hooks beneficial?  
 // Some benefits of hooks are:
-  
+  // to share stateful logic between components
+  // Avoid duplication of logic
+  // split components into smaller functions
+
 // Can Hooks be used in class components?  
+// Hooks can only be used in functional components.
 
 // What other hooks are available other than useState and useEffect? 
+// Some examples of other hooks are:
+  // useReducer: for state management
+  // useCallback: returns memoized callback
+  // useMemo: returns memoized value
